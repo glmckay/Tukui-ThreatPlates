@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: |cffC495DDTukui-ThreatPlates|r
+## Notes: Color Tukui nameplates based on threat
+## Author: glmckay
+## RequiredDeps: Tukui
+
+Core.lua
